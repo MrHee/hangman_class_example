@@ -1,0 +1,1 @@
+wordslist = ['garage', 'toast', 'microwave', 'lightning']
